@@ -21,3 +21,7 @@ This is an application meant to be used by user to create survey, send to others
 ## Development server
 
 Run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files
+
+## Code scaffolding
+
+Run `npx generate-react-cli component component-name` to generate a new component.
