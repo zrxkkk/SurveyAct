@@ -17,3 +17,7 @@ This is an application meant to be used by user to create survey, send to others
 
 ### Send survey
 ![image](https://user-images.githubusercontent.com/47342380/112184270-6f81bb00-8bd5-11eb-8db8-2e07c84770b5.png)
+
+## Development server
+
+Run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files
